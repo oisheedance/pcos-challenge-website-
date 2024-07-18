@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>PCOS Challenge - Patient-Focused Medical Device Development</title>
+    <link rel="stylesheet" href="https://unpkg.com/@picocss/pico@1.5.7/css/pico.min.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+
+        header {
+            background-color: #2e3d49;
+            color: white;
+            padding: 10px 0;
+        }
+
+        header nav ul {
+            display: flex;
+            justify-content: center;
+            gap: 15px;
+        }
+
+        header nav ul li {
+            list-style: none;
+        }
+
+        header nav ul li a {
+            color: white;
+            text-decoration: none;
+        }
+
+        main {
+            padding: 20px;
+        }
+
+        .hero {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+
+        .hero h1 {
+            font-size: 2em;
+            margin-bottom: 10px;
+        }
+
+        .hero p {
+            font-size: 1.2em;
+        }
+
+        .section {
+            margin-bottom: 40px;
+        }
+
+        .section h2 {
+            font-size: 1.5em;
+            margin-bottom: 15px;
+        }
+
+        .section ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        .section ul li {
+            margin-bottom: 10px;
+        }
+
+        .cta-button {
+            background-color: #ff5a5f;
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+
+        footer {
+            background-color: #2e3d49;
+            color: white;
+            text-align: center;
+            padding: 20px 0;
+        }
+
+        footer a {
+            color: white;
+            text-decoration: none;
+        }
+
+        footer .social-icons a {
+            margin: 0 10px;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <div class="container">
+            <nav>
+                <ul>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">About</a></li>
+                    <li><a href="#">Medical Device Development</a></li>
+                    <li><a href="#">Research</a></li>
+                    <li><a href="#">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <section class="hero">
+            <h1>PCOS Challenge: Leading Patient-Focused Medical Device Development</h1>
+            <p>Medical devices play a critical role in managing PCOS symptoms and improving quality of life.</p>
+        </section>
+
+        <section class="section">
+            <h2>Why Patient-Focused Medical Device Development Matters</h2>
+            <p>Medical devices play a critical role in managing PCOS symptoms and improving quality of life. However, many existing devices do not adequately address the specific needs of PCOS patients. By focusing on patient-centric development, we ensure that these devices are effective, accessible, and tailored to the unique experiences of those living with PCOS.</p>
+        </section>
+
+        <section class="section">
+            <h2>Innovative Projects Driving Change</h2>
+            <ul>
+                <li><strong>Collaborations with Medical Device Companies:</strong> Partnering with leading companies to create devices that better serve PCOS patients.</li>
+                <li><strong>Patient Involvement in Development:</strong> Ensuring that patient voices are heard and integrated into every stage of device development.</li>
+                <li><strong>Research and Trials:</strong> Conducting comprehensive research and clinical trials to test and validate new devices.</li>
+            </ul>
+        </section>
+
+        <section class="section">
+            <h2>Get Involved: Shape the Future of PCOS Treatment</h2>
+            <p>Your input is invaluable in our mission to develop effective medical devices for PCOS. By filling out our lead generation form, you can:</p>
+            <ul>
+                <li>Share your experiences and needs as a PCOS patient.</li>
+                <li>Participate in surveys and focus groups.</li>
+                <li>Receive updates on our latest projects and developments.</li>
+            </ul>
+            <p><a href="#" class="cta-button">Fill Out the Lead Generation Form</a></p>
+        </section>
+
+        <section class="section">
+            <h2>Learn More About PCOS and Our Work</h2>
+            <ul>
+                <li><a href="#">PCOS Awareness and Education</a></li>
+                <li><a href="#">PCOS Research</a></li>
+                <li><a href="#">Patient Support and Empowerment</a></li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>Contact Information: Address, Email, Phone Number</p>
+            <div class="social-icons">
+                <a href="#"><img src="facebook-icon.png" alt="Facebook" /></a>
+                <a href="#"><img src="twitter-icon.png" alt="Twitter" /></a>
+                <a href="#"><img src="instagram-icon.png" alt="Instagram" /></a>
+            </div>
+            <p><a href="#">Terms of Service</a> | <a href="#">Privacy Policy</a></p>
+        </div>
+    </footer>
+</body>
+
+</html>`
